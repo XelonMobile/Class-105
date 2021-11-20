@@ -1,0 +1,6 @@
+body{background-color: aquamarine;}
+.name_of_objects{color: red;}
+#result_object_name{color:purple;}
+#result_object_accuracy{color:orange;}
+.heading{font-size: 20px; width: 80%;}
+#camera{width: 350px; height: 300; border:2px dashed red;}
